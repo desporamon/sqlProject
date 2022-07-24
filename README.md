@@ -7,8 +7,8 @@ Writing SQL scripts and explanation of the thought process
 - progress table: user_id learn_cpp learn_sql learn_html learn_javascript learn_java
 
 ## The challenge
--> Apply SQL techniques for querying, aggregating and joining data.
--> Solve the given challenges using SQL.
+- Apply SQL techniques for querying, aggregating and joining data.
+- Solve the given challenges using SQL.
   What are the Top 25 schools with the most number of students in descending order on .edu domains?
   Please filter by school email domain and the number of students.
   List out all the cities with the number of students from the respective cities in descending order.
